@@ -2,6 +2,8 @@
 
 Olá, eu sou o Guilherme
 
+Moro em São Paulo
+
 ## Meus hobbies
 
 - Jogar videogame
